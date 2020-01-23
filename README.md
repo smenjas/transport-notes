@@ -1,7 +1,7 @@
 # [Transport](https://en.wikipedia.org/wiki/Transport)
 
 ## [Modes of Transport](https://en.wikipedia.org/wiki/Modes_of_transport)
-- [Water](https://en.wikipedia.org/wiki/Maritime transport)
+- [Water](https://en.wikipedia.org/wiki/Maritime_transport)
 - [Land](https://en.wikipedia.org/wiki/Land_transport)
   - [Road](https://en.wikipedia.org/wiki/Road_transport)
   - [Rail](https://en.wikipedia.org/wiki/Rail_transport)
