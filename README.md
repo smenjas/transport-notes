@@ -11,7 +11,7 @@
   - [Elevator](https://en.wikipedia.org/wiki/Elevator)
   - [Zip line](https://en.wikipedia.org/wiki/Zip_line)
 - [Pipeline](https://en.wikipedia.org/wiki/Pipeline_transport)
-- [Air](https://en.wikipedia.org/wiki/Aviation)
+- [Air](aviation.md)
 - [Space](https://en.wikipedia.org/wiki/Space_transport)
 
 ## [Propulsion](https://en.wikipedia.org/wiki/Propulsion)
@@ -22,6 +22,8 @@
   - [Reaction engine](https://en.wikipedia.org/wiki/Reaction_engine)
     - [Jet engine](https://en.wikipedia.org/wiki/Jet_engine)
     - [Rocket engine](https://en.wikipedia.org/wiki/Rocket_engine)
+- [Propeller](https://en.wikipedia.org/wiki/Propeller)
+- [Propeller (aviation)](https://en.wikipedia.org/wiki/Propeller_%28aeronautics%29)
 
 ## [Vehicles](https://en.wikipedia.org/wiki/Vehicle)
 - [Wagon](https://en.wikipedia.org/wiki/Wagon)
@@ -40,6 +42,7 @@
   - [Glider](https://en.wikipedia.org/wiki/Glider_%28aircraft%29)
   - [Airplane](https://en.wikipedia.org/wiki/Airplane)
   - [Powered lift](https://en.wikipedia.org/wiki/Powered_lift)
+- [Ornithopter](https://en.wikipedia.org/wiki/Ornithopter)
 - [Rotorcraft](https://en.wikipedia.org/wiki/Rotorcraft)
   - [Helicopter](https://en.wikipedia.org/wiki/Helicopter)
     - [Coaxial rotors](https://en.wikipedia.org/wiki/Coaxial_rotors)
@@ -48,6 +51,8 @@
 ### [Spacecraft](https://en.wikipedia.org/wiki/Spacecraft)
 
 ### [Vehicular automation](https://en.wikipedia.org/wiki/Vehicular_automation)
+- [Autopilot](https://en.wikipedia.org/wiki/Autopilot)
+- [Tesla Autopilot](https://en.wikipedia.org/wiki/Tesla_Autopilot)
 
 ## License
 Released as open source software under the terms of the [ISC License](https://en.wikipedia.org/wiki/ISC_license).

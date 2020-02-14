@@ -7,8 +7,17 @@
 - [Aerodynamics](https://en.wikipedia.org/wiki/Aerodynamics)
 - [Aerospace engineering](https://en.wikipedia.org/wiki/Aerospace_engineering)
 - [Aircraft design process](https://en.wikipedia.org/wiki/Aircraft_design_process)
+- [Aircraft flight control system](https://en.wikipedia.org/wiki/Aircraft_flight_control_system)
 - [Avionics](https://en.wikipedia.org/wiki/Avionics)
 - [Computational fluid dynamics (CFD)](https://en.wikipedia.org/wiki/Computational_fluid_dynamics)
+- [Environmental impact of aviation](https://en.wikipedia.org/wiki/Environmental_impact_of_aviation)
+- [Flight control surfaces](https://en.wikipedia.org/wiki/Flight_control_surfaces)
+- [Flight dynamics](https://en.wikipedia.org/wiki/Flight_dynamics)
+- [Flight dynamics (fixed-wing aircraft)](https://en.wikipedia.org/wiki/Flight_dynamics_%28fixed-wing_aircraft%29)
+- [Flight envelope](https://en.wikipedia.org/wiki/Flight_envelope)
+- [Moving frame](https://en.wikipedia.org/wiki/Moving_frame)
+- [Range](https://en.wikipedia.org/wiki/Range_%28aeronautics%29)
+- [Thrust vectoring](https://en.wikipedia.org/wiki/Thrust_vectoring)
 - [Wing](https://en.wikipedia.org/wiki/Wing)
 
 ## [Airworthiness](https://en.wikipedia.org/wiki/Airworthiness)
@@ -22,6 +31,7 @@
   - [Reaction engine](https://en.wikipedia.org/wiki/Reaction_engine)
     - [Jet engine](https://en.wikipedia.org/wiki/Jet_engine)
     - [Rocket engine](https://en.wikipedia.org/wiki/Rocket_engine)
+- [Propeller](https://en.wikipedia.org/wiki/Propeller_%28aeronautics%29)
 
 ## [Aircraft](https://en.wikipedia.org/wiki/Aircraft)
 - [Airship](https://en.wikipedia.org/wiki/Airship)
@@ -29,6 +39,7 @@
   - [Glider](https://en.wikipedia.org/wiki/Glider_%28aircraft%29)
   - [Airplane](https://en.wikipedia.org/wiki/Airplane)
   - [Powered lift](https://en.wikipedia.org/wiki/Powered_lift)
+- [Ornithopter](https://en.wikipedia.org/wiki/Ornithopter)
 - [Rotorcraft](https://en.wikipedia.org/wiki/Rotorcraft)
   - [Helicopter](https://en.wikipedia.org/wiki/Helicopter)
     - [Coaxial rotors](https://en.wikipedia.org/wiki/Coaxial_rotors)
@@ -47,6 +58,3 @@
 - [Scott Palmer](https://www.youtube.com/channel/UCrH40DJh4LHiFceeFsZllmg)
 - [Trent Palmer](https://www.youtube.com/user/boredentertainment88)
 - [The Finer Points](https://www.youtube.com/user/OnTheFlightLine)
-
-## License
-Released as open source software under the terms of the [ISC License](https://en.wikipedia.org/wiki/ISC_license).
