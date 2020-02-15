@@ -218,6 +218,3 @@ The numbers after each vehicle are the minimum and maximum available battery cap
   - [History of self-driving cars](https://en.wikipedia.org/wiki/History_of_self-driving_cars)
   - [Tesla AutoPilot](https://en.wikipedia.org/wiki/Tesla_Autopilot)
     - [Tesla Autonomy Day 2019](https://www.youtube.com/results?search_query=tesla+autonomy+day+2019)
-
-## License
-Released as open source software under the terms of the [ISC License](https://en.wikipedia.org/wiki/ISC_license).
