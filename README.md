@@ -28,7 +28,7 @@
 
 ## [Vehicles](https://en.wikipedia.org/wiki/Vehicle)
 - [Wagon](https://en.wikipedia.org/wiki/Wagon)
-- [Bicycle](https://en.wikipedia.org/wiki/Bicycle)
+- [Bicycle](bicycles.md)
 - [Skateboard](https://en.wikipedia.org/wiki/Skateboard)
 
 ### [Motor vehicle](https://en.wikipedia.org/wiki/Motor_vehicle)
