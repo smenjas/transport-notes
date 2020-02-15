@@ -1,4 +1,4 @@
-# [Electric Vehicle (EV)](https://en.wikipedia.org/wiki/Electric_vehicle) Notes
+# [Electric Vehicles (EVs)](https://en.wikipedia.org/wiki/Electric_vehicle)
 
 [![Gustave Trouvé's electric tricycle, the first electric vehicle in history to be displayed to the public.](/img/trouves-electric-tricycle.png)](https://commons.wikimedia.org/wiki/File:Capture_d%E2%80%99%C3%A9cran_2016-10-14_%C3%A0_21.26.28.png)
 
