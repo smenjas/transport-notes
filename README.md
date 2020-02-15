@@ -12,7 +12,7 @@
   - [Zip line](https://en.wikipedia.org/wiki/Zip_line)
 - [Pipeline](https://en.wikipedia.org/wiki/Pipeline_transport)
 - [Air](aviation.md)
-- [Space](https://en.wikipedia.org/wiki/Space_transport)
+- [Space](spaceflight.md)
 
 ## [Propulsion](https://en.wikipedia.org/wiki/Propulsion)
 - [Human-powered transport](https://en.wikipedia.org/wiki/Human-powered_transport)
@@ -22,6 +22,7 @@
   - [Reaction engine](https://en.wikipedia.org/wiki/Reaction_engine)
     - [Jet engine](https://en.wikipedia.org/wiki/Jet_engine)
     - [Rocket engine](https://en.wikipedia.org/wiki/Rocket_engine)
+      - [Cold gas thruster](https://en.wikipedia.org/wiki/Cold_gas_thruster)
 - [Propeller](https://en.wikipedia.org/wiki/Propeller)
 - [Propeller (aviation)](https://en.wikipedia.org/wiki/Propeller_%28aeronautics%29)
 
@@ -53,6 +54,7 @@
 ### [Vehicular automation](https://en.wikipedia.org/wiki/Vehicular_automation)
 - [Autopilot](https://en.wikipedia.org/wiki/Autopilot)
 - [Tesla Autopilot](https://en.wikipedia.org/wiki/Tesla_Autopilot)
+- [Unmanned vehicle](https://en.wikipedia.org/wiki/Unmanned_vehicle)
 
 ## License
 Released as open source software under the terms of the [ISC License](https://en.wikipedia.org/wiki/ISC_license).
