@@ -32,7 +32,7 @@
 - [Skateboard](https://en.wikipedia.org/wiki/Skateboard)
 
 ### [Motor vehicle](https://en.wikipedia.org/wiki/Motor_vehicle)
-- [Electric vehicles](https://en.wikipedia.org/wiki/Electric_vehicle)
+- [Electric vehicles](electric-vehicles.md)
 
 ### [Watercraft](https://en.wikipedia.org/wiki/Watercraft)
 - [Amphibious vehicle](https://en.wikipedia.org/wiki/Amphibious_vehicles)
