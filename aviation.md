@@ -5,6 +5,7 @@
   - [History of unmanned aerial vehicles (UAVs)](https://en.wikipedia.org/wiki/History_of_unmanned_aerial_vehicles)
   - [History of unmanned combat aerial vehicles (UCAVs)](https://en.wikipedia.org/wiki/History_of_unmanned_combat_aerial_vehicles)
 - [Aerodynamics](https://en.wikipedia.org/wiki/Aerodynamics)
+- [Aeronautics](https://en.wikipedia.org/wiki/Aeronautics)
 - [Aerospace engineering](https://en.wikipedia.org/wiki/Aerospace_engineering)
 - [Aircraft design process](https://en.wikipedia.org/wiki/Aircraft_design_process)
 - [Aircraft flight control system](https://en.wikipedia.org/wiki/Aircraft_flight_control_system)

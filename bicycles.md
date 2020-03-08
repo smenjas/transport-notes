@@ -8,5 +8,5 @@
 - [History of the bicycle](https://en.wikipedia.org/wiki/History_of_the_bicycle)
 - [Safety bicycle](https://en.wikipedia.org/wiki/Safety_bicycle)
 
-### YouTube
+### Videos
 - [The History of Bicycle Chains and How they Work](https://youtu.be/FfZAfdLDcSs)
