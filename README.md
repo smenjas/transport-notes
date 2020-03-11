@@ -3,7 +3,7 @@
 ---
 
 - [Aviation](aviation.md)
-- [Bicycle](bicycles.md)
+- [Bicycles](bicycles.md)
 - [Cartography](cartography.md)
 - [Electric Vehicles](electric-vehicles.md)
 - [Spaceflight](spaceflight.md)
